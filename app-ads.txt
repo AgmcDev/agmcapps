@@ -1,4 +1,4 @@
-facebook.com, 373870401894267, DIRECT, c3e20eee3f780d68
+nofacebook.com, 373870401894267, DIRECT, c3e20eee3f780d68
 #applovin
 applovin.com, 05346a42bdf1ba6b156c948966d81360, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
@@ -33,4 +33,4 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
 
-google.com, pub-5456485718272193, DIRECT, f08c47fec0942fa0
+google.com, pub-0266901566350445, DIRECT, f08c47fec0942fa0
