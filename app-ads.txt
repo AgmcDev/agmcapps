@@ -33,4 +33,4 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
 
-google.com, pub-0266901566350445, DIRECT, f08c47fec0942fa0
+google.com, pub-7703669937582480, DIRECT, f08c47fec0942fa0
